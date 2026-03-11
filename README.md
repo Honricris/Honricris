@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi! I'm Carlos Honrado 👋
 
-<!--
-**Honricris/Honricris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Scientist specializing in AI and Cloud Computing. I am passionate about building scalable infrastructures and developing solutions using RAG and transformer models.
 
-Here are some ideas to get you started:
+- 🔭 Currently pursuing an M.Sc. in Artificial Intelligence at Universidad Politécnica de Madrid.
+- 💻 Experience building serverless cloud architectures and training NLP models for medical environments and e-commerce chatbots.
+- ☁️ AWS Certified Solutions Architect Professional.
+- ⚡ Fun fact: I was a professional handball player and now I apply that elite discipline and results-driven mindset to code.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/carlos-honrado-398794287/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,nodejs,react,aws,gcp,docker,postgres,pytorch,tensorflow" />
+</p>
+
+### My GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
