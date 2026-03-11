@@ -14,4 +14,4 @@ I am a Computer Scientist specializing in AI and Cloud Computing. I am passionat
 </p>
 
 ### My GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Honricris&show_icons=true&theme=radical)
