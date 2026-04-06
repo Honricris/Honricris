@@ -5,7 +5,6 @@ I am a Computer Scientist specializing in AI and Cloud Computing. I am passionat
 - 🔭 Currently pursuing an M.Sc. in Artificial Intelligence at Universidad Politécnica de Madrid.
 - 💻 Experience building serverless cloud architectures and training NLP models for medical environments and e-commerce chatbots.
 - ☁️ AWS Certified Solutions Architect Professional.
-- ⚡ Fun fact: I was a professional handball player and now I apply that elite discipline and results-driven mindset to code.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/carlos-honrado-398794287/)
 
 ### Tech Stack
